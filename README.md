@@ -37,9 +37,34 @@
 ---
 
 ### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🏆 Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bityana&show_icons=true&theme=default&hide=issues,contribs"/>
+  <!-- Main stats card (stars, commits, etc.) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bityana&show_icons=true&theme=default&hide=issues&count_private=true&include_all_commits=true"
+    alt="Bityana's GitHub stats"
+    height="165"
+  />
+
+  <!-- Optional: Top languages card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bityana&layout=compact&theme=default"
+    alt="Top languages"
+    height="165"
+  />
 </p>
+
+<!-- Trophy card (achievements) -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Bityana&theme=gruvbox&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 ---
 
