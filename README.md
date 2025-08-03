@@ -41,32 +41,30 @@
 
 ### 📊 GitHub Stats&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🏆 Trophies
 
+---
+
 <p align="center">
-
-  <!-- Stats card – hides stars so they don't show up -->
+  <!-- Main stats card (stars, commits, etc.) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Bityana
-         &show_icons=true
-         &include_all_commits=true
-         &count_private=true
-         &hide=issues,stars            <!-- 👈 hides total stars line -->
-         " 
+    src="https://github-readme-stats.vercel.app/api?username=Bityana&show_icons=true&theme=default&hide=issues&count_private=true&include_all_commits=true"
     alt="Bityana's GitHub stats"
-    height="170"
+    height="165"
   />
 
-  <!-- Trophy card – shows your trophy count & badges -->
+  <!-- Optional: Top languages card -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Bityana
-         &theme=gruvbox
-         &title=Followers,Commits,Repositories,Stars
-         &column=4
-         &margin-w=10
-         "
-    alt="GitHub trophies"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bityana&layout=compact&theme=default"
+    alt="Top languages"
+    height="165"
   />
+</p>
 
+<!-- Trophy card (achievements) -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Bityana&theme=gruvbox&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
